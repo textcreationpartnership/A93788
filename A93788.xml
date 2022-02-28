@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Clero-laicum condimentum. Or, A sermon preached at a visitation in Saint Nicholas Church in Bristoll, April 16. an. D. 1644. By Richard Standfast Master of Arts, rector of Christ-Church, and one of His Majesties chaplains.</title>
+            <author>Standfast, Richard, 1608?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93788</idno>
+            <idno type="STC">Wing S5207</idno>
+            <idno type="STC">Thomason E282_16</idno>
+            <idno type="STC">ESTC R200051</idno>
+            <idno type="EEBO-CITATION">99860854</idno>
+            <idno type="PROQUEST">99860854</idno>
+            <idno type="VID">112980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112980)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E282[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Clero-laicum condimentum. Or, A sermon preached at a visitation in Saint Nicholas Church in Bristoll, April 16. an. D. 1644. By Richard Standfast Master of Arts, rector of Christ-Church, and one of His Majesties chaplains.</title>
+                  <author>Standfast, Richard, 1608?-1684.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Thomas, and are to be sold at his shop in Broad-street,</publisher>
+                  <pubPlace>Bristoll, :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "This was printed 1644 but came not to hand till ye 12th May 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Mark IX, 50 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Visitation sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112980:1" rendition="simple:additions"/>
+            <p>
+               <hi>Clero-laicum Condimentum.</hi> OR, A SERMON PREACHED At a Viſitation in Saint <hi>Nicholas Church</hi> in BRISTOLL, Aprill 16. <hi>An. D.</hi> 1644.</p>
+            <p>By <hi>Richard Standfaſt</hi> Maſter of Arts, Rector of <hi>Chriſt-Church,</hi> and one of His Majeſties Chaplains.</p>
+            <p>BRISTOLL, Printed for <hi>Thomas Thomas,</hi> and are to be ſold at his Shop in <hi>Broad-ſtreet,</hi> 1644.</p>
+         </div>
+         <div xml:lang="lat" type="imprimatur">
+            <pb facs="tcp:112980:2"/>
+            <p>PErlegi hanc Conelone<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, in qua ni<g ref="char:EOLhyphen"/>hil niſi quod ſanum &amp; orthodoxum ſit, invenio, quo minùs ad publicam utilitatem Imprimatur</p>
+            <closer>
+               <signed>
+                  <hi>Eduardus Tubbes</hi> R<hi rend="sup">do</hi>. in Chriſto P.D. Epiſ<g ref="char:EOLhyphen"/>copo Briſtol. A Sacris.</signed> 
+               <dateline>
+                  <date>
+                     <hi>Iune</hi> 1. 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112980:2"/>
+            <head>To the Right Reverend Father in God, <hi>Thomas</hi> by Divine providence Lord Biſhop of <hi>Briſtoll.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend Father,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon is of right your due, for it was your order that firſt prepared it for the Pulpit; and it is your requeſt (as you were pleaſ'd to make it,) that hath now commanded it to the Preſſe. My humble deſire therefore is, that it may paſſe abroad under your protection, being confident that (as un<g ref="char:EOLhyphen"/>worthy as it is) it will ſpeed the better for your approbation. The world dares give credit to your Lordſhips Teſtimony, whoſe onely practice is enough to confute the ma<g ref="char:EOLhyphen"/>ny and malicious ſlanders that have of late been caſt upon your holy function, by thoſe that have been the Enemies of our
+<pb facs="tcp:112980:3"/>Peace. God in mercy ſend us Biſhops and Paſtors after his own heart, and not af<g ref="char:EOLhyphen"/>ter theirs; and increaſe the number of ſuch Miniſters, as are required by our Saviour in my preſent Text; that ſo by well doing, we may put to ſilence the Ig<g ref="char:EOLhyphen"/>norance of fooliſh men. And the great Shepheard of ſoules continue your Lord<g ref="char:EOLhyphen"/>ſhip long among us, for a Pattern, both of preaching, and piety unto us, that are un<g ref="char:EOLhyphen"/>der you in the Lord; And, if it be his bleſ<g ref="char:EOLhyphen"/>ſed will, vouchſafe unto us once more the bleſſing of Peace, that ſo we may the bet<g ref="char:EOLhyphen"/>ter ſee, what an happineſſe we have in injoying you. This (I dare ſay) is the hearty deſire of all your Clergy, I am ſure it is his, that is</p>
+            <closer>
+               <signed>Your Lordſhips to be Commanded in the Lord. Ri: STANDFAST.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:112980:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Mark 9.50.</hi>
+                  </bibl>
+                  <p>Have Salt in your ſelves, and have Peace one with another.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the former Verſes Saint <hi>Marke</hi> doth relate a certain conference, which our Saviour had with his Diſci<g ref="char:EOLhyphen"/>ples in a houſe at <hi>Capern<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um;</hi> In the beginning whereof he teacheth them humility, taking the occaſion of his diſcourſe from a diſpute, that fell out among the Diſciples in the way, for there was a kinde of contenti<g ref="char:EOLhyphen"/>on amongſt them <hi>which of them ſhould be the greateſt,</hi> v. 34. From thence our Bleſſed Savi<g ref="char:EOLhyphen"/>our proceeds to ſhew, how neceſſary it is to cut off all Scandall, and occaſions of offence, yea, though they be as neer and dear unto us, <hi>as the right Hand, Eye, or Foot,</hi> v. 43 which work of Mortification, being a work ſo unpleaſing to Fleſh and Blood, our Bleſſed Saviour declares the neceſſity thereof in the verſe before my Text. Saying, <hi>Every man muſt be ſalted with Fire, and every ſacrifice muſt be ſalted with Salt,</hi> which is, as if he had ſaid, Whoſoever will
+<pb n="2" facs="tcp:112980:4"/>eſcape that <hi>Fire</hi> that never goeth out, muſt be <hi>ſalted</hi> with the <hi>Spirit</hi> of God, by whoſe holy <hi>fire</hi> he may be purified from his droſſe, and cleanſed from his corruption; And whoſo<g ref="char:EOLhyphen"/>ever will offer up himſelf unto God, <hi>a living ſacrifice holy and acceptable unto him,</hi> muſt be <hi>powdered</hi> with the <hi>word of God,</hi> which is of the nature of <hi>Salt</hi> in efficacy and operation, for it will eat out the corrupt humours of our ſinfull luſts, it will preſerve us from noyſomneſſe and putrefaction, and render us a <hi>ſacrifice of a ſweet ſmelling ſavour unto God.</hi> Now from this meta<g ref="char:EOLhyphen"/>phor of <hi>Salt,</hi> our Savour takes occaſion to magnifie the Miniſtery of the word of God, and to ſhew the extream unworthineſſe of worthleſſe Miniſters, who are (indeed) no better then <hi>unſavoury Salt,</hi> which is good for nothing; and hereupon follow the words of my Text, wherein Chriſt makes both ends of his diſcourſe to meet, ſumming up both the be<g ref="char:EOLhyphen"/>ginning and the end of it in a double precept; ſaying, <hi>Have Salt in your ſelves, and have Peace one with another.</hi>
+            </p>
+            <p>The words divide themſelves into two Commandements; the one concerning <hi>Salt,</hi> the other <hi>Peace,</hi> the one is for the <hi>ſeaſoning</hi> of the <hi>inward</hi> man, the other is for the <hi>ſweetning</hi> of the <hi>outward</hi> carriage; and though they were both uttered by our Bleſſed Saviour to his Diſciples, yet being now to ſpeak to a mixt Aſſembly of <hi>Clergy</hi> and <hi>Laity.</hi> I ſhall crave leave to direct my ſpeech to both, neither is this any
+<pb n="3" facs="tcp:112980:4"/>more then the words will hear. For Chriſt had Diſciples of two ſorts; ſome were onely learners, ſome were inſtructed by him for the teaching of others; and unto both may it be ſaid well enough; <hi>have Salt in your ſelves, and have Peace one with another.</hi>
+            </p>
+            <p>This therefore ſhall be the method by which I will guide my preſent diſcourſe; firſt, I will ſpeak of theſe precepts apart, directing the firſt precept, firſt to the <hi>Clergy, have Salt in your ſelves;</hi> and then to the <hi>Laity, have Salt in your ſelves.</hi> From hence I ſhall proceed to the ſecond, and in the ſame order, firſt to the <hi>Clergy, have you Peace one with another:</hi> then to the <hi>Laity, have you Peace one with another;</hi> and thirdly to <hi>bath Clergy and Lasty; have you Peace one with another.</hi> And having handled theſe precepts ſeverally, I ſhall then proceed briefly to their conjunction. For it is not <hi>Salt</hi> alone without <hi>Peace,</hi> nor <hi>Peace</hi> alone without <hi>Salt,</hi> that is here required; it is not barely an <hi>inward Salt,</hi> or ſimply an <hi>outward Peace</hi> that we muſt labour for, but both <hi>Salt and Peace</hi> are our duty, <hi>an inward ſeaſoning</hi> and <hi>an outward ſweetning</hi> muſt go both together, for ſo ſaith the Text, <hi>have Salt in your ſelves, and have Peace one with another.</hi>
+            </p>
+            <p>I begin with the firſt precept, <hi>have Salt in your ſelves.</hi>
+            </p>
+            <p>
+               <hi>Salt</hi> is a creature of common uſe, and hath in it two ſpeciall properties, <hi>ſcil. ſavour, and
+<pb n="4" facs="tcp:112980:5"/>ſharpneſſe</hi>
+               <note n="*" place="margin">
+                  <hi>Sali in<g ref="char:EOLhyphen"/>eſt ſapor &amp; acor, ſapor cibos inſipi<g ref="char:EOLhyphen"/>dos reddit gratos, acor carnes a corruptione &amp; putredi<g ref="char:EOLhyphen"/>ne conſer<g ref="char:EOLhyphen"/>vat. Parae. in</hi> Matt. 5.</note> the one tends to dry up ſuperfluous moyſture, and ſo to preſerve from ſtinke and rottenneſſe, the other gives a good relliſh to what we eat, and makes it ſavoury to the taſte, and in regard of this double quality <hi>diforetion and wiſdom</hi> is compared to <hi>Sals, Col.</hi> 4.6. which words carry this ſenſe, <hi>let your ſpeech be ſeaſoned with grace as with Salt,</hi> for this grace of <hi>Chriſtian</hi> wiſdom is of the nature of <hi>Salt,</hi> pre<g ref="char:EOLhyphen"/>ſerving our <hi>communication</hi> from <hi>corruption</hi> and making our diſcourſe to tend <hi>to edification,</hi> and <hi>to Miniſter grace to them that hear it,</hi> according to that of the Apoſtle <hi>Epheſ.</hi> 4.29.</p>
+            <p>In this reſpect alſo the <hi>Miniſtery of the word</hi> is compared to <hi>Salt,</hi> becauſe it mortifies and workes out our corruptions, which make us noyſome in Gods Noſtrills, and becauſe it ren<g ref="char:EOLhyphen"/>ders us and our actions ſavoury and pleaſing unto God. And for this cauſe it is that the <hi>Miniſters of the Goſpell</hi> are called the <hi>Sals of the earth, ſon.</hi> in regard of their Doctrine, for to them is committed the <hi>Miniſtery of reconciliation</hi>
+               <note n="*" place="margin">2 <hi>Cor.</hi> 5.18</note> and the diſpenſing of the <hi>myſteries of God</hi>
+               <note n="*" place="margin">1 <hi>Cor.</hi> 4.1.</note> and by <hi>Preaching</hi> of the word they do be<g ref="char:EOLhyphen"/>ſprinkle their Auditors, and <hi>ſeaſon</hi> them, as with <hi>Sall</hi> whereby to deſtroy their luſts, and to make them pleaſing unto God, who without this ſeaſoning would be but as unſavoury theat, yea, like ſtinking Carrions.</p>
+            <p>In this place <hi>Salt</hi> doth not fignifie the <hi>Miniſte<g ref="char:EOLhyphen"/>ry of the word,</hi> but that <hi>inward ſeaſoning</hi> which is wrought in our hearts by the <hi>power</hi> of that
+<pb n="5" facs="tcp:112980:5"/>Miniſtery, and if theſe words be ſpoken to the <hi>Clergy,</hi> then they require, that they whoſe office it is to <hi>ſeaſon</hi> others by their <hi>Doctrine</hi> ſhould have their own <hi>hearts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> by the <hi>power</hi> thereof: if they be applyed to the Laity, then they require, that men do not content them<g ref="char:EOLhyphen"/>ſelves with a <hi>form</hi> of godineſſe,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> but that they labour alſo for the <hi>power</hi> thereof, that ſo their <hi>hearts</hi> may be thorowly <hi>ſeaſoned,</hi>and their cor<g ref="char:EOLhyphen"/>ruptions mortified. The words may fitly be ap<g ref="char:EOLhyphen"/>plyed to both, and therefore I ſhall proceed accordingly to ſpeak to both of theſe in order, and firſt to the <hi>Clergy, You that are to powder others, have Salt in your ſelves.</hi>
+            </p>
+            <p>We whoſe worke it is to <hi>ſeaſon</hi> others ſhould be <hi>ſeaſoned</hi> our ſelves, the power of that word which we preach unto others, muſt work upon our own hearts, that ſo there may be an harmonious agreement between our Doctrine and our Converſation.</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Paſtor. p</hi> 3. <hi>c.</hi> 6.</note> Saint <hi>Gregory</hi> ſaith that a Miniſter ſhould be like a Cock, <hi>who firſt claps his wings to rouze up himſelf, and the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> owes to awaken <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hers.</hi> In<g ref="char:EOLhyphen"/>ſtruction as well as Charity muſt begin at home, and there's a great deal of reaſon for it too, for otherwiſe we can neither reprove with that <hi>boldneſſe,</hi> nor ſpeak with that <hi>life</hi> which we ought to do, nor e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect that <hi>benefit</hi> upon our labours which we might enjoy; we cannot repro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e with that <hi>boldneſſe</hi> that we ſhould, if our <hi>life</hi> be not anſwerable to our <hi>Doctrine;</hi> he is not eaſily induced to ſtrike, that muſt hit
+<pb n="6" facs="tcp:112980:6"/>himſelf, and if he be, the blowes will be gentle; he is not eaſily wonn to paſſe cenſure, that muſt judge himſelf, or if the ſentence muſt be pro<g ref="char:EOLhyphen"/>nounced, we cannot expect that it ſhould be heavy; and how can we with boldneſſe reprove that in others, whereof we ourſelves are guil<g ref="char:EOLhyphen"/>ty? for in ſo doing we
+<note n="*" place="margin">
+                  <hi>Rom.</hi> 2.1.</note> 
+               <hi>condemn our ſelves.</hi>
+            </p>
+            <p>Nor can we ſpeake with that <hi>life,</hi> that we ought to do. They are fitteſt to be <hi>ſonns of thunder</hi> that <hi>tremble</hi> at the word of God themſelves; and they to be <hi>ſons of conſolation,</hi> who have themſelves been <hi>in diſtreſſe,</hi>
+               <note n="*" place="margin">2 <hi>Cor.</hi> 1.4</note> Saint <hi>Paul</hi> having found <hi>comfort himſelf</hi> knew the better how to <hi>comfort others,</hi> and having him<g ref="char:EOLhyphen"/>ſelf obtained mercy, he knew the better how to preach it unto others; he that ſpeaks of points of Divinity without experience of his own, is like to do it but in a ſuperficiall way. And how can he expect that his Doctrine ſhould be effectuall to work upon others, if it have no power at all upon himſelf? he is not like to perſwade others to the Oath of Allegiance that doth himſelf refuſe it; or to reclaim others from prophane ſwearing, that is himſelf guilty of it; or to win others to beleeve thoſe truths, of which his own actions argue his own unbe<g ref="char:EOLhyphen"/>lief. Blurrs will never be well cleanſed with blotted fingers, and men are hardly drawn to be <hi>vertuous</hi> by thoſe, whoſe lives are <hi>vicious;</hi> or perſwaded by their good <hi>words,</hi> whoſe <hi>deeds</hi> are evill. <hi>Efficacius vitae quam linguae teſti<g ref="char:EOLhyphen"/>monium</hi>
+               <note n="*" place="margin">Cypr. de dup. mar.</note> he <hi>whoſe life confutes his Doctrine,</hi>
+               <pb n="7" facs="tcp:112980:6"/>
+               <note n="*" place="margin">
+                  <hi>Non<g ref="char:EOLhyphen"/>nulli quod ver<g ref="char:EOLhyphen"/>bis praedi<g ref="char:EOLhyphen"/>cant mori<g ref="char:EOLhyphen"/>bus impug<g ref="char:EOLhyphen"/>nant. Greg. paſt. p.</hi> 1. c. 2.</note> pulls down more with one hand then he builds up with the other, and is more like with <hi>Elie's</hi> Sons
+<note n="†" place="margin">1 Sam. 2.17.</note> to cauſe men <hi>to abhor the of<g ref="char:EOLhyphen"/>fering of the Lord,</hi> then to win them to regard it.</p>
+            <p>It is indeed, the duty of a Chriſtian to give heed to the truth, whereever he finde it, and to regard the word of God, whatſoever he be that brings it; we ought not to ſay with the <hi>Donatiſts, Factor legis tantum debet audiri</hi>
+               <note n="*" place="margin">
+                  <hi>Aug. contra. Gandent.</hi> lib. 2. cap. 9.</note> our Bleſſed Saviour hath taught us otherwiſe, <hi>Math.</hi> 23.2, 3. Shewing, that the Scribes and Phariſes, <hi>who ſaid and did not,</hi> yet <hi>ſitting in the Chair of</hi> Moſes, i. e. <hi>ſecundum Moſen docentes,</hi> as long as they taught according to <hi>the words of Moſes,</hi> their Doctrine was to be obſerved and followed. And thus ought we to do; and if the Vine grow ſo neer the hedge
+<note n="*" place="margin">
+                  <hi>Nullo modo legi<g ref="char:EOLhyphen"/>tur uva de ſpinis, quia nunquam deſpina<g ref="char:EOLhyphen"/>rum radi<g ref="char:EOLhyphen"/>cibus ori<g ref="char:EOLhyphen"/>tur. Sed cumſe ſpi<g ref="char:EOLhyphen"/>noſis ſepi<g ref="char:EOLhyphen"/>bus pelmes vitis implicuit, non ideò fructus, qui illic pendet, horretur; ſed ſpina cavetur, uva decerpitur. Aug. contra. lit. petil. lib.</hi> 3. <hi>cap.</hi> 8.</note> that a bunch of Grapes hang upon a buſh of Thorns, we may not refuſe the Grapes, but take heed to our fingers. This is our duty, but yet, un<g ref="char:EOLhyphen"/>leſſe our hearts be ſeaſoned with the more grace, the unworthineſſe of the Meſſenger, will much impair the credit of the Meſſage, and abate much of that due reſpect, which it ought to have. And therefore <hi>(brethren)</hi> let us lay this to heart, that ſo, as we <hi>ſpeake</hi> we may <hi>do,</hi> as we <hi>preach</hi> we may <hi>practiſe,</hi> leſt having open<g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:112980:7"/>the door unto others, we our ſelves be ſhut out. It is a ſhamefull thing for us to be juſtly reproved with the ancient Proverb, <hi>Phy<g ref="char:EOLhyphen"/>ſician heale thy ſelf,</hi>
+               <note n="*" place="margin">
+                  <hi>Luc.</hi> 4.23.</note> It is enough to ſtop our mouthes, and to make us <hi>ſpeechleſſe</hi> to be de<g ref="char:EOLhyphen"/>ſervedly queſtioned in the words of the Apoſtle <hi>Rom.</hi> 2. <hi>Thou that teacheſt another, teacheſt not thou thy ſelf?</hi> &amp;c. v. 21, 22. It cannot but prick us at the very heart, to be examined by our Maſter in the words of the <hi>Pſalmiſt, what haſt thou to do to declare my Statutes, and to take my Covenant in thy mouth, ſeeing thou hateſt in<g ref="char:EOLhyphen"/>ſtruction, and haſt caſt my words behind thee?</hi> Pſal. 50.16, 17. Theſe are all working paſ<g ref="char:EOLhyphen"/>ſages, if duly thought upon: And the truth is, ſuch courſes can deſerve no leſſe then a moſt ſharp reproof, becauſe they contract more then a ſingle guiltineſſe.</p>
+            <p>In the fourth Chapter of <hi>Leviticus,</hi> we finde mention of <hi>the ſin,
+<note place="margin">There needs no other teaching or com<g ref="char:EOLhyphen"/>manding of ſinne, then the ſins of teachers and com<g ref="char:EOLhyphen"/>manders.</note> and the offering of the Prieſt,</hi> and therein there are three circumſtances, that are very obſervable; firſt, in the ſin of the Prieſt, there is no mention made of <hi>ignorance,</hi> as there is in the ſin of the People, for it is to be ſup<g ref="char:EOLhyphen"/>poſed that if the Prieſt ſin, he ſins out of know<g ref="char:EOLhyphen"/>ledge rather then ignorance; ſecondly, the ſin of the Prieſt becomes an occaſion of the peo<g ref="char:EOLhyphen"/>ples ſin, for where it is ſaid <hi>v.</hi> 3. <hi>If the Prieſt ſin according to the ſin of the People,</hi> the ſenſe is thus rendred by ſome, If the Prieſt ſin <hi>in reatum populi</hi> (that is) <hi>ſo that the people ſin,</hi> for many times it comes to paſſe, that the people are in<g ref="char:EOLhyphen"/>couraged
+<pb n="9" facs="tcp:112980:7"/>to ſin by the example of the Prieſt; And thirdly the offering of the Prieſt, was the very ſame with the offering of the whole Con<g ref="char:EOLhyphen"/>gregation, as if it were, to ſhew that the ſin of the Prieſt is as great as the ſinne of the whole Congregation, at leaſt it argues that the ſins of the Prieſt, are more heynous then the ſins of other men.</p>
+            <p>And therefore let us thinke ſeriouſly of theſe things, that ſo we may be mindfull of our duty. It is for Phariſes and Hypocrites
+<note n="*" place="margin">Matth. 23.4.</note> to binde heavy burdens on other mens ſhoulders, with<g ref="char:EOLhyphen"/>out ſo much as touching of them with one of their own fingers, but let us be Patterns to the flock.
+<note n="*" place="margin">1 Pet. 5.</note>
+            </p>
+            <p>It is ſaid of <hi>Iohn</hi> the <hi>Baptiſt,</hi>
+               <note place="margin">
+                  <p>3. <hi>Ardens inſe, lucens aliis.</hi>
+                  </p>
+                  <p>
+                     <hi>Ardens ibi zelus, lucens ibi ſcientia.</hi>
+                  </p>
+                  <p>
+                     <hi>Ardens vitâ, lu<g ref="char:EOLhyphen"/>cens doctri<g ref="char:EOLhyphen"/>nâ.</hi>
+                  </p>
+               </note> that he was <hi>a burning and a ſhining light</hi> John 5.35. <hi>burning</hi> in himſelf, <hi>ſhining</hi> unto others; <hi>burning</hi> in zeal, <hi>ſhining</hi> in knowledge; <hi>burning</hi> in life, <hi>ſhining</hi> in Doctrine; <hi>ſhining</hi> as a light in the world, holding forth the word of life, and <hi>burning</hi> in being <hi>blameleſſe, and harmleſſe, and without rebuke in the midſt of a crooked and per<g ref="char:EOLhyphen"/>verſe Nation,</hi> according to that of Saint <hi>Paul Philip.</hi> 2.15. And ſuch ſhould we be, having <hi>our light ſo ſhining amongſt men;</hi> that they <hi>may ſee our good works,</hi> according to that of our Savi<g ref="char:EOLhyphen"/>our, <hi>Matth.</hi> 5.16.</p>
+            <p>A Miniſter that is neither <hi>burning</hi> nor <hi>ſhining,</hi> what is he better then a <hi>ſtinking ſnuffe</hi> in the bottom of the Candle-ſtick? He that is a <hi>ſhining,</hi> and not a <hi>burning</hi> light, is but like a
+<pb n="10" facs="tcp:112980:8"/>Glow-worm, or as rotten wood: He that <hi>burns</hi> without <hi>ſhining</hi> is but a Candle under a Buſhell: but <hi>burning</hi> and <hi>ſhining</hi> argues that our <hi>lights</hi> are kindled with <hi>a Coal from the Altar.</hi>
+            </p>
+            <p>A <hi>diſeaſed Phyſician</hi> and a <hi>ragged Alchymiſt</hi> are the ſcorn of men, and the ſhame of their profeſſion; and a <hi>diſſolute Divine</hi> is a Member of the ſame ſociety, one of the worſt of men, the very fagge end, the <hi>taile</hi> of the People. The Miniſters of the Goſpell are <hi>the Salt of the earth,</hi> but when their life and Doctrine are at variance
+<note n="*" place="margin">Sal in Dei mi<g ref="char:EOLhyphen"/>niſtris evaneſcit, cum vita doctrinae non re<g ref="char:EOLhyphen"/>ſpondeat, qui ita inſulſi &amp; deo &amp; ho<g ref="char:EOLhyphen"/>minibus ingrati. Luc. Bru<g ref="char:EOLhyphen"/>genſ.</note> then the <hi>Salt</hi> becomes <hi>unſavoury,</hi> and <hi>unſa<g ref="char:EOLhyphen"/>voury Salt</hi> is good for nothing, but to be caſt out and to be trod under Foot <hi>Matth.</hi> 5.13.</p>
+            <p>It is a tart paſſage which a
+<note n="*" place="margin">
+                  <hi>Dr. Boys feſt.</hi> 1. Ep. on Saint <hi>Thom. Day.</hi>
+               </note> Modern hath, but very pertinent to this purpoſe, and the words are to this effect, <hi>ſcil. If thou art a preſi<g ref="char:EOLhyphen"/>dent of Goldineſſe to thy People, pray that thou maiſt ſo continue; if thou ſometime waſt, and art now fallen, return; if thou never waſt, repent; if thou ne<g ref="char:EOLhyphen"/>ver wilt be, periſh.</hi> And yet as tart as it is, 'tis founded on the truth, for
+<note n="*" place="margin">
+                  <hi>Levit.</hi> 10.3.</note> 
+               <hi>God will be ſanctified in thoſe that come nigh him,</hi> either by their holy carriage, or in their juſt confuſion.</p>
+            <p>I will conclude this point, with that of the Apoſtle, 1 <hi>Tim.</hi> 4.16. <hi>Take heed to thy ſelf,</hi> Oh thou man of God, as well as <hi>to thy Doctrine, continue in them, for in ſo doing, thou ſhalt both ſave thy ſelf, and them that hear thee; Ille praedicat vivâ voce qui praedicat vitâ &amp; voce,</hi> he preacheth beſt that <hi>lives</hi> his own Sermons,
+<pb n="11" facs="tcp:112980:8"/>and that holds forth the word of life, as well with his hand as with his tongue, and therefore as we deſire to <hi>ſeaſon</hi> others, <hi>let us have Salt in our ſelves.</hi>
+            </p>
+            <p>I proceed now to ſpeak of <hi>this firſt precept</hi> with relation to the People, <hi>Have you Salt in your ſelves;</hi> and I deſire you to hear with as much willingnes, what belongs to your ſelves, as you have done that that concerns others, of you it is required, as well as of us, not to reſt onely in an <hi>outward profeſſion,</hi> but that your <hi>hearts alſo be ſeaſoned</hi> with the word of God.</p>
+            <p>There is a <hi>ſhew,</hi> and there is a <hi>truth</hi> of holy<g ref="char:EOLhyphen"/>neſſe; there is a <hi>ſeeming,</hi> and there is a <hi>being</hi> re<g ref="char:EOLhyphen"/>ligious; there is a <hi>form,</hi> and there is a <hi>power</hi> of Godlineſſe; now though it be true, that where<g ref="char:EOLhyphen"/>ſoever the <hi>power</hi> is, there will be a <hi>form,</hi> yet the <hi>form</hi> may be, &amp; too often is without the <hi>power.</hi> But this ought not ſo to be, a <hi>bare form</hi> is not enough, there muſt be the <hi>power</hi> alſo, and there<g ref="char:EOLhyphen"/>fore <hi>have Salt in your ſelves.</hi>
+            </p>
+            <p>A <hi>form of Godlineſſe</hi> is common both to the ſincere and the Hypocrite, and therefore can be no characteriſticall note of a true Chriſtian; it may ſuffice to gain admiſſion into the <hi>viſible Church,</hi> but that alone cannot prove us to be true Members of that <hi>Church</hi> that is <hi>inviſible,</hi> the <hi>congregation of the firſt
+<note n="*" place="margin">Heb. 12.23.</note> born whoſe names are written in heaven.</hi>
+            </p>
+            <p>Let us take a brief ſurvey of thoſe ſeverall parts which go to the making up of a <hi>form of Godlineſſe,</hi> and ſee how little profit they can af<g ref="char:EOLhyphen"/>foord
+<pb n="12" facs="tcp:112980:9"/>us if the <hi>power</hi> be wanting; and here we may begin with that, which gives entrance in<g ref="char:EOLhyphen"/>to the Church, <hi>ſcil. Baptiſme.</hi> To be <hi>Baptized</hi> is a very great priviledge, for <hi>Baptiſme</hi> in it's pro<g ref="char:EOLhyphen"/>per nature is <hi>the Seal of the Covenant between God and us;</hi> it is the
+<note n="*" place="margin">Acts 22.16.</note> 
+               <hi>waſhing away of ſin,
+<note n="*" place="margin">Tit. 3.5.</note> the laver of regeneration,</hi> our matriculation into the Kingdom of heaven, and yet if when we come to yeers, we want the
+<note n="*" place="margin">1 Pet. 3.21.</note> reſtipulation of a good conſcience, it affoords us no benefit. And who can boaſt of being <hi>Baptized,</hi> that hath nothing to boaſt of but being <hi>Baptized? Simon Magus</hi> by vertue of his outward profeſſion, had ad<g ref="char:EOLhyphen"/>miſſion unto Baptiſme, as well as <hi>Simon Peter,</hi> and yet he was in <hi>the gall of bitterneſſe, and in the bond of iniquity,</hi> Acts 8.23.</p>
+            <p>Again, to <hi>frequent the houſe of God,</hi> it is our duty, and indeed an happineſſe to enjoy the liberty of praiſing God in the great Congrega<g ref="char:EOLhyphen"/>tion: And where this liberty is enjoyed, it is ſuſpicious at the beſt to <hi>forſake the
+<note n="*" place="margin">Heb. 10 25.</note> aſſembling of our ſelves together as the manner of ſome is.</hi> And yet who can boaſt of <hi>keeping his Church,</hi> that can boaſt of no more? the proud Phariſe fre<g ref="char:EOLhyphen"/>quents the Temple as well as the penitent Publican, and wicked <hi>Cain</hi> offers ſacrifice, as well as righteous <hi>Abel;</hi> and yet the one was taken, and the other left, the one
+<note n="*" place="margin">Gen. 4.4, 5.</note> found fa<g ref="char:EOLhyphen"/>vour, and the other was rejected.</p>
+            <p>Again, That we enter into the houſe of God <hi>humiliata corpare, &amp; inclinatâ cervice;</hi> with <hi>due reverence</hi> tis no more then is requiſite; and
+<pb n="13" facs="tcp:112980:9"/>what Religion can that be, that ſhall teach men to be ſlovenly and unmannerly about the ſer<g ref="char:EOLhyphen"/>vice of God? had we onely <hi>ſoules,</hi> God would never require the <hi>reverence</hi> of our <hi>bodies,</hi> or had we onely <hi>bodies,</hi> he would never require the <hi>fear</hi> of our <hi>ſoules;</hi> but having given us <hi>both,</hi> he looks for the ſervice of <hi>both;</hi> and ſeeing he is as well the God of our <hi>bodies,</hi> as the Father of our <hi>Spirits,</hi> he requires to be glorified both in
+<note n="*" place="margin">1 Cor. 6 20.</note> 
+               <hi>Body and Spirit,</hi> and expects to be ſerved as well with
+<note n="*" place="margin">Heb. 12.28.</note> 
+               <hi>reverence,</hi> as with <hi>Godly fear.</hi> And yet who can brag of the externall homage performed to the Son of God; when in the Hiſtory of the Goſpell, he may finde that the
+<note n="*" place="margin">Mark 5, 7. cum Luke 8.28.</note> Devill himſelf did once <hi>fall down and worſhip him?</hi>
+            </p>
+            <p>Once more, <hi>That we hear the word of God,</hi> it is our bounden duty, and there's a great deal of reaſon, why we ſhould affoord it our beſt at<g ref="char:EOLhyphen"/>tention, for it is the
+<note n="*" place="margin">1 Pet. v. 23.</note> 
+               <hi>ſeed of our regeneration;
+<note n="*" place="margin">1 Pet. 2.2.</note> Milk</hi> to ſuckle us in our infancy, <hi>ſtrong meat</hi> to nouriſh us in our riper yeers; it is for the in<g ref="char:EOLhyphen"/>grafting of faith in our hearts; for <hi>that comes by
+<note n="*" place="margin">Rom. 10.17.</note> hearing;</hi> it is for the ſeaſoning, and ſancti<g ref="char:EOLhyphen"/>fying of our ſoules, for ſo prayes our Saviour, <hi>Iohn</hi> 17.17. <hi>Sanctifie them with thy truth, thy word is truth;</hi> it is able <hi>to
+<note n="*" place="margin">Acts 20.32.</note> build us up; and to give us an inheritance among them that be Sanctified:
+<note n="*" place="margin">Rom. 1.16. James 1.22.</note> It is the power of God to our Salva<g ref="char:EOLhyphen"/>tion.</hi> And yet in vain do we boaſt of hearing the Word, if we be <hi>hearers onely;</hi> * for then we ſhall deceive our own ſelves; neither is the
+<pb n="14" facs="tcp:112980:10"/>bleſſing annexed to bare hearing, but <hi>Bleſſed are they that hear the word of God and keep it,</hi> Luke 11.28.</p>
+            <p>What ſhould I ſpeak of <hi>knowing</hi> of the Scrip<g ref="char:EOLhyphen"/>tures? a bare ſpeculation can nothing availe us, in the caſes of Divinity. The Devills know much, and yet to no caſe, to no comfort; and all that we ſhall get by an idle knowledge, will be onely to know, who he is, that ſhall con<g ref="char:EOLhyphen"/>demn us.</p>
+            <p>Or what ſhould I ſpeak of <hi>Godly conference?</hi> true it is, that if the <hi>heart</hi> be a treaſury of good things, the <hi>mouth</hi> will diſcover it, for out of the
+<note n="*" place="margin">Matth. 12.34.</note> 
+               <hi>aboundance of the heart the mouth ſpeaketh.</hi> And yet 'tis true alſo, that nothing hinders, but that the verieſt Miſcreant on earth, the verieſt De<g ref="char:EOLhyphen"/>vill in Hell may ſpeak holily; the voice may be <hi>Iacobs</hi> voice, when the hands be the hands of <hi>Eſaw,</hi> and if the <hi>heart</hi> and the <hi>hands</hi> be not ſutable to the <hi>tongue,</hi> it profits nothing.</p>
+            <p>The Father of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es can, when he pleaſeth, ſpeak true and Orthodox. Divinity, and call Chriſt the holy one of God; and therefore what can it profit us, even to preach in
+<note n="*" place="margin">Matth 7.22, 23.</note> the name of Chriſt, if we be workers of iniquity?</p>
+            <p>Yea, the <hi>frequenting of the Lords Table,</hi> which carryes with it ſo great a ſhew of devotion, and where, if it be not our own fault, we may be partakers of that Heavenly Banquet, which will nouriſh us up unto eternall life; yet if this be not done with due preparation, it will be ſo far from profiting of us, that it will occaſion an
+<pb n="15" facs="tcp:112980:10"/>
+               <note n="*" place="margin">1 Cor. 11.27, 28, 29.</note> increaſe of condemnation, There were ſome (you know) that ſaid, <hi>We have
+<note n="*" place="margin">Luk 13.26, 27.</note> eat and drunk in thy preſence, and thou haſt taught in our ſtreets;</hi> and yet becauſe they could ſay no more, God owned them not, but ſent them away with a <hi>neſcio vas.</hi> The outward performance of all theſe things, is but a <hi>form</hi> of Godlineſſe, and if the <hi>power</hi> be wanting, we ſhall loſe our reward.</p>
+            <p>Away therefore with that <hi>Machivilian</hi> maxime, That <hi>vertue it ſelf is not to be ſought af<g ref="char:EOLhyphen"/>ter, but onely the appearance, becauſe the credit is an help, the uſe a cumber:</hi> For if it be good to <hi>ſeeme,</hi> it muſt needs be better to <hi>be</hi> Religious, without which indeed it is not good to ſeeme ſo to be; for <hi>ſimulata fanctitas eſt daplex iniqui<g ref="char:EOLhyphen"/>tas,</hi> counterfeit holineſſe is double iniquity.</p>
+            <p>And reſt not onely in the bare outward per<g ref="char:EOLhyphen"/>formance of Religions actions; but let the <hi>heart be uncorrupt, which in the ſight of God is much ſet by.
+<note n="*" place="margin">Hiero<g ref="char:EOLhyphen"/>nim: in Ep. ad Pauli<g ref="char:EOLhyphen"/>num.</note> Eſſe Chriſtianum grande eſt, non videri, ſaith</hi> Saint <hi>Hierome,</hi> tis no great matter to <hi>ſeeme</hi> Religious; the black Prince of dark<g ref="char:EOLhyphen"/>neſſe can
+<note n="*" place="margin">2 Cor. 11.14.</note> 
+               <hi>transform himſelf into an Angell of light,</hi> but to <hi>be</hi> religious, that's a matter both of difficulty and conſequence, and hereunto there is more required then a <hi>form</hi> of Godli<g ref="char:EOLhyphen"/>neſſe. If the <hi>outward performance</hi> of religious duties were enough to make a man a ſincere Chriſtian, it were an eaſie matter to be religious; Publicans and Harlots, notorious ſinners, even ſo continuing, might then enter into the King<g ref="char:EOLhyphen"/>dom of Heaven; for therein the <hi>groſſeſt Hipa<g ref="char:EOLhyphen"/>crite</hi>
+               <pb n="16" facs="tcp:112980:11"/>may go as farre as the <hi>devouteſt Saint.</hi> But this we know, that if the heart be not ſound, and perfect towards God; <hi>all outward perform<g ref="char:EOLhyphen"/>ances,</hi> are but <hi>bodily exerciſe,</hi> and that profits not. And therefore labour alſo for the <hi>power</hi> of godlineſſe, and if you would not loſe what you do, if you would have your ſervice ac<g ref="char:EOLhyphen"/>cepted of God,
+<note n="*" place="margin">James 4.8.</note> 
+               <hi>cleanſe your hands, and purge your hearts;</hi> let your corruptions be throughly mortified, and let your <hi>hearts</hi> be throughly ſea<g ref="char:EOLhyphen"/>ſoned with the power of the word of God, and <hi>Have Salt in your ſelves.</hi> And yet think not that a Chriſtian hath diſcharged all his duty, when he hath had ſome care of the <hi>inward tem<g ref="char:EOLhyphen"/>par</hi> of his heart and ſoule, there muſt be alſo a due regard of the <hi>outward carriage;</hi> the ſame mouth that ſaid, <hi>Have Salt in your ſelves;</hi> re<g ref="char:EOLhyphen"/>quires <hi>Peace alſo one with another,</hi> as appears by the Text. And ſo I paſſe on to the ſecond part of my Text, <hi>Have Peace one with another.</hi>
+            </p>
+            <p>And this I direct in the firſt place, to my brethren of the Clergy, <hi>Have you Peace one with another.</hi>
+            </p>
+            <p>
+               <hi>Chemnitius,</hi> and <hi>Lucas Brugenſis</hi> refer this paſſage to that contention for <hi>Primacy</hi>
+               <note n="*" place="margin">Verſ. 34.</note> for<g ref="char:EOLhyphen"/>merly mentioned, and well they may. For am<g ref="char:EOLhyphen"/>bitious Contention among the Clergy about temporall greatneſſe, is but a bad friend to the <hi>Peace</hi> of the Church, <hi>pacem habete inter vos mu<g ref="char:EOLhyphen"/>tuo, nec ſit inter vos contentio de Primatu;</hi> ſo <hi>Bru<g ref="char:EOLhyphen"/>genſis,</hi> not as if there ſhould be <hi>no ſuperiority</hi> at all among the <hi>Clergy,</hi> but that there ſhould be
+<pb n="17" facs="tcp:112980:11"/>
+               <hi>no ambitious ſtriving for ſuperiority</hi> among the Clergy, <hi>ſuperiority</hi> is the Mother of <hi>Peace,</hi> but ſtriving for it brings forth diviſion.</p>
+            <p>To bring the Clergy down to a <hi>Parity</hi> is the ready way to ſet up <hi>Confuſion;</hi> for where there's no ſuperiority, there can be no Order; <hi>and no Order, no Peacs. Superiority</hi> among the Cler<g ref="char:EOLhyphen"/>gy is not onely <hi>lawfull,</hi> but alſo <hi>requiſite;</hi> and it is not the <hi>having,</hi> but the <hi>loving</hi> of prehemi<g ref="char:EOLhyphen"/>nence, that is blame-worthy, as being alwayes contentious and troubleſome. And therefore if we deſire <hi>Peace,</hi> we muſt beware of <hi>ambition.</hi>
+            </p>
+            <p>But this is not all, The words require a mu<g ref="char:EOLhyphen"/>tuall correſpondency, and an harmonious agreement one with another, and that even in <hi>all</hi> things <hi>ſo far as it is poſſible,</hi> and there's a great deal of reaſon, to perſwade us to our du<g ref="char:EOLhyphen"/>ty in this behalf.</p>
+            <p>For firſt we are
+<note n="*" place="margin">Acts 7.26.</note> brethren, &amp; therefore ſhould not fall out by the way. And again, Second<g ref="char:EOLhyphen"/>ly, our maſter is <hi>one,</hi> and our work is <hi>one,</hi> and if the ſervants be at variance, the Maſters work is not like to proſper. Saint <hi>Paul</hi> ſaith, there are <hi>diverſities of gifts, but the ſame Spirit; and there are differences of adminiſtrations, but the ſame Lord; and there are diverſities of operations, but it is the ſame God which worketh all in all, 1 Cor.</hi> 12.4, 5, 6. They all come from one, and they tend all to one, for the <hi>miniſtration of the Spirit, it given to every man to profit withall,</hi> v. 7. And for this cauſe are there ſuch <hi>diverſities and dif<g ref="char:EOLhyphen"/>ferences,</hi> that having every man need of another
+<pb n="18" facs="tcp:112980:12"/>we ſhould agree the better, that ſo there might be <hi>no
+<note n="*" place="margin">1 Cor. 12.25.</note> ſchiſme in the body;</hi> farre therefore be it from us to make that an occaſion of diviſion and ſtrife, which our Maſter intended for unity and Peace.</p>
+            <p>And thirdly, hereby we may be <hi>known to be
+<note n="*" place="margin">John. 13 35.</note> Chriſt's Diſciples, if we love one another.</hi> Our Doctrine alſo may be known to be of God, if it tend to Peace.</p>
+            <p>The true
+<note n="*" place="margin">1 Kings 3.26.</note> Mother would by no means give way to the dividing of the Child. And there<g ref="char:EOLhyphen"/>fore ſuch Doctrines as ſavour of ſtrife, and tend to work unneceſſary diviſions among bre<g ref="char:EOLhyphen"/>thren, can favour but little of the Spirit of God.</p>
+            <p>Sometimes it may ſo fall out, that Saint <hi>Paul may
+<note n="*" place="margin">Gal. 2.11.</note> withſtand Saint Peter to his face,</hi> but it was, <hi>becauſe he was to be blamed.</hi> Contenti<g ref="char:EOLhyphen"/>ons will ariſe, and ſometimes they are neceſſa<g ref="char:EOLhyphen"/>ry, but then the ground muſt be good, or elſe the contention is evill. <hi>Peace and Truth muſt hiſſe each other.</hi> And we muſt take this with us too; <hi>Non ſic ratio veritatis eſt habenda ut paci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ura prorſus negligatur; nec unitas talis ambit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>da, quâ vera fides deſeratur:</hi> We muſt neither un<g ref="char:EOLhyphen"/>derpretence of piety broach quarrells; nor un<g ref="char:EOLhyphen"/>der pretence of Peace, betray the truth.</p>
+            <p>The Scripture hath as well an
+<note n="*" place="margin">Eph. 4.15.</note> 
+               <hi>ale<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> as an <hi>eirenevete</hi> follow the truth, as well as follow peace, and yet it is <hi>alethevete en agape; fallow the truth in love.</hi> Every ſlight errour, cannot juſtifie ſeperation from a brother, much
+<pb n="19" facs="tcp:112980:12"/>leſſe from a Church. <hi>Eſt pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>exit ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cer<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> ſtrenn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> we muſt
+<note n="*" place="margin">Jude v. 3.</note> contend for the faith, which was once given to the faints; but it muſt be with a contention of love, not of force and violence, <hi>nec pacis cauſa erroribus manifeſtis eſt connivend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m;</hi> ſo <hi>Par<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> in 1 <hi>Cor.</hi> 14.33. We may not for Peace ſake wink at groſſe errours. But yet as he ſweetly addes, <hi>Soda<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eſt cavendum, ne veri<g ref="char:EOLhyphen"/>tati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> regula<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es &amp; affect<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rent, quod niſt pridem multife<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iſſent, minus <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tique con<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſionum Eccleſia nunc haberes;</hi> men muſt take heed, that they do not make their <hi>own conceits</hi> and fancies the <hi>rule of truth,</hi> which if ſome men had not done, without doubt there had not been ſo much confuſion in the Church.</p>
+            <p>We muſt love <hi>Peace</hi> well, but <hi>fundamentall truths</hi> better, and though we muſt love <hi>all truths</hi> well, yet for every <hi>petty truth,</hi> we may not diſturb the <hi>Publique Peace.</hi> And if this courſe had been followed amongſt us, in theſe latter times, neither had the <hi>Church</hi> been ſo <hi>rent,</hi> nor the <hi>Kingdom</hi> ſo <hi>divided,</hi> as now they are; neither had there been ſo much <hi>ſchiſme</hi> in the <hi>one,</hi> nor <hi>ſedition</hi> in the <hi>other,</hi> as now there is. For what eſſentiall <hi>fundamentall truth</hi> hath our Church wanted? and if none, there's no reaſon we ſhould keepe ſo much adoe about <hi>truths</hi> of an inferiour nature, as to ſin againſt <hi>Charity and Peace.</hi>
+            </p>
+            <p>And at whoſe door (thinke you) will all theſe breaches be laid? too many of them, I fear, will be brought home to ſome of the
+<pb n="20" facs="tcp:112980:13"/>Clergy, but ſurely they have choſen but an ill Maſter, that have been <hi>active</hi> in ſowing <hi>unne<g ref="char:EOLhyphen"/>ceſſary diviſions</hi> among brethren, and it is to be doubted, that it will be bitterneſſe in the latter end.</p>
+            <p>It is ſtoryed of one <hi>Milo</hi> a mighty man for ſtrength of body; that on a time finding a forked Tree he would needs in a vain glorious way attempt to rend the Tree aſunder, but his ſtrength failed him, and the Tree cloſing again, caught him faſt, and there held him, till the Wolves devoured him.</p>
+            <p>And what dreadfull vengeance befell <hi>Korah</hi> and his complices, we may read at large, <hi>Numb.</hi> 16. <hi>The earth opened her mouth and ſwal<g ref="char:EOLhyphen"/>lowed up ſome of them,</hi> v. 32. <hi>And Fire came out from the Lord, and devoured others,</hi> v. 35. I will not wiſh the Incendiaries of our times, that have made uſe of their ſtrength, to the rending aſunder both of Church and State; I will not (I ſay) wiſh them either <hi>Milo's</hi> lot, or <hi>Korah's</hi> con<g ref="char:EOLhyphen"/>fuſion, but their own converſion rather (and yet Saint <hi>Paul</hi> wiſheth that they that troubled the <hi>Galatians, were even cut off,</hi> Gal. 5.12.) But I muſt needs ſay, that they, whom <hi>God hates with more then a common hatred,</hi> have but little reaſon to expect <hi>Peace at the laſt</hi> without repentance; and ſuch are they, that <hi>ſow diſcord among bre<g ref="char:EOLhyphen"/>thren,</hi> as appears by that of <hi>Salomon.</hi> Prov. 6.16. &amp; 19.</p>
+            <p>It were to be wiſhed that we could be <hi>all of one mind;</hi> but this is never like to be, as long as
+<pb n="21" facs="tcp:112980:13"/>there is corruption in nature, variety in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, imperfection in our condition, hard places in the Scripture, and an envious man to ſowe tares; nevertheleſſe, we muſt be <hi>all of one heart,</hi> and love as brethren.</p>
+            <p>In <hi>fundamentalls,</hi> we muſt be all of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> winde,</hi> in other things, if our judgements differ, yet we muſt differ <hi>in a way of le<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> we muſt retain <hi>cha<g ref="char:EOLhyphen"/>rity</hi> ſtill, and give to each other the <hi>right-hand of fellowſhip;</hi> and the chiefeſt contention, that ought to be amongſt the Miniſters of Chriſt, ſhould be, how to <hi>keep
+<note n="*" place="margin">Eph. 4.3.</note> the unity of the Spirit in the bond of Peace.</hi>
+            </p>
+            <p>The Devill and his inſtruments know well enough, that their beſt fiſhing is in troubled waters; and therefore, that we give them no advantage by our diviſions, let us <hi>have Peace one with another.</hi>
+            </p>
+            <p>Nor do theſe words of our Saviour concern the <hi>Clergy</hi> onely: but to you alſo of the <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity</hi> it belongs <hi>to live in Peace.</hi> And therefore in the next place, I apply my ſelf to you in the words of my Text, <hi>have you Peace one with another.</hi>
+            </p>
+            <p>Let there be no grudge, nor hatred; nor malice in your <hi>hearts,</hi> no bitterneſſe, or railing in your <hi>mouths,</hi> no vexatious provocations in your <hi>carriage,</hi> or moleſtations in your <hi>actions;</hi> but as it becomes <hi>neghbours,</hi> as it becomes <hi>bre<g ref="char:EOLhyphen"/>thren,</hi> as <hi>fellow Subjects,</hi> as <hi>fellow Chriſtians,</hi> as <hi>fellow-Members,</hi> as <hi>fellow-heirs</hi> of the grace of life, be ye peaceable. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> be ye all
+<pb n="22" facs="tcp:112980:14"/>Peace, let all your <hi>thoughts, words</hi> and <hi>actions</hi> tend to <hi>Peace; ſtudy</hi> for Peace, <hi>ſpeake</hi> for Peace, <hi>do</hi> for Peace, <hi>ſuffer</hi> for Peace, <hi>pray</hi> for Peace, <hi>pay</hi> for Peace, and if no other means will ſerve the turn, <hi>ſtrive</hi> for Peace, yea, <hi>fight</hi> for Peace, that if <hi>it be
+<note n="*" place="margin">Rom. 12.18.</note> poſſible, as much is in you lyes, you may live peaceably with all men.</hi>
+            </p>
+            <p>And if you need motives to perſwade you to this duty: Conſider, firſt, how pathetically the Apoſtle requires it of us, <hi>Philip.</hi> 2, 1, 2.3. <hi>If there be any Conſolation in Chriſt, if any comfort of love, if any fellowſhip of the Spirit, if any bewells and mercies fulfill ye my joy, that ye be like minded, having the ſame love, being of one ac<g ref="char:EOLhyphen"/>cord, of one minde,</hi> &amp;c. <hi>ipſa Suada (credo) ſi loqui poſſet, non patuiſſet emphaticateroes.</hi> Eloquence it ſelf could not ſpeake with greater Emphaſis, or to better purpoſe.</p>
+            <p>Secondly, conſider how ſutable a peace<g ref="char:EOLhyphen"/>able Carriage is to the Goſpell of Peace, and to the calling of a Chriſtian.
+<note n="*" place="margin">Eph. 4.4, 5, 6.</note> That God whom we ſerve is <hi>one</hi> God, and he is the God of Peace; our Bleſſed Saviour is <hi>one,</hi> and he is the Prince of Peace: his birth was in a time of Peace; the end of his coming was to make Peace; and being the corner ſtone, his place in the building is the place of Peace. The Holy Spirit is but <hi>one,</hi> and it is the Spirit of Peace. There is but <hi>one</hi> Goſpell, and it is the Goſpell of Peace. There is but <hi>one</hi> Church, Jeruſa<g ref="char:EOLhyphen"/>lem which is above, whoſe name by interpreta<g ref="char:EOLhyphen"/>tion, is, <hi>a viſion of Peace.</hi> There is but <hi>one</hi> hope of
+<pb n="23" facs="tcp:112980:14"/>our calling, and that is to
+<note n="*" place="margin">Col. 3.15.</note> Peace. There is but <hi>one</hi> way to heaven, and that's the way of Peace. There is but <hi>one</hi> common inheritance, &amp; that is the kingdom of Peace; there is but <hi>one faith,</hi> and <hi>one Baptiſme,</hi> and where there is ſo much <hi>Vnity and Peace,</hi> can it ſtand either with religion, or reaſon, that they that profeſſe themſelves to be Chriſtians, ſhould either cauſe, or counte<g ref="char:EOLhyphen"/>nance unneceſſary <hi>diviſions?</hi>
+            </p>
+            <p>Thirdly, take notice of the miſeries, that wait upon diviſions and ſtrife, and then we ſhall eaſily be induced to ſay, That if any com<g ref="char:EOLhyphen"/>fort live, it is in Peace. <hi>Ecce quam bonum atque jucundum,</hi> ſo the Pſalmiſt
+<note n="*" place="margin">Pſal. 133.1.</note> 
+               <hi>behold how good and joyfull a thing it is for brethren to dwell together in unity.</hi> And well he might: <hi>For there the Lord appointed the bleſſing, even life for ever more.</hi> But
+<note n="*" place="margin">Jac. 3.16</note> where <hi>envy and ſtrife is; there is confuſion, and every evill work.</hi> And our Saviour ſaith, <hi>That an houſe divided cannot ſtand;</hi> and a Kingdom divided
+<note n="*" place="margin">Matth. 12.15.</note> 
+               <hi>eremoutai</hi> were it never ſo fruitfull, it will quickly turn to a barren deſart, a very wilderneſſe,</p>
+            <p>How juſtly therefore are they to be blamed, that are contentious, and quarrelſome, that are of turbulent Spirits, that ſavour altogether of Contradiction, that ſtirre up ſtrife all the day long? The very heathen could ſay,
+<note place="margin">
+                  <hi>Cicero. de off. l.</hi> 2.</note> 
+               <hi>Convenit a litibus quantum liceat, &amp; neſci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an paule plus quans liceat, eſſe abhortentem,</hi> meaning, that ſome<g ref="char:EOLhyphen"/>times we ſhould yeeld; though to ſome loſſe of our own, that ſo we might <hi>have Peace one with
+<pb n="24" facs="tcp:112980:15"/>another.</hi> And if an heat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en can ſay ſo much, we may well account <hi>a contentioue Chriſtian</hi> a very groffie abſurdi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y.</p>
+            <p>From hence alſo we may gather ſome light whereby to judge of the unhappy differ<g ref="char:EOLhyphen"/>ences of our preſent times. We blame the <hi>Papiſts,</hi> and that juſtly, becauſe they would never give way to have the differences between them and us freely debated in a generall Coun<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>; And can we herein condemn them, and at the fametime approve of thoſe, that had ra<g ref="char:EOLhyphen"/>ther ſee a Church and State imbroyled in blood, torn in peices, and expoſed to ruine, then ſubmit to ſo ſmall a matter as <hi>a Treaty</hi> for Peace? If we looke into the Scriptures, we ſhall alwayes finde the Churh, and the Mem<g ref="char:EOLhyphen"/>bers there of, compared to ſuch creatures as are moſt peaceable; tither to <hi>a
+<note n="*" place="margin">
+                     <hi>Cant.</hi> 2.2</note> 
+                  <hi>ſpotleſſe Rilly;</hi> that hath no venoenous prickles: or to
+<note place="margin">
+                     <hi>Iohn</hi> 10.27.</note> 
+                  <hi>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>harmleſſe ſheep,</hi> which yee do to binding, ſheer<g ref="char:EOLhyphen"/>ing, and ſlaughter without opening the mouth: or to
+<note n="*" place="margin">
+                     <hi>Cant.</hi> 6.9</note> an in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eve,</hi> that hath neither
+<note n="*" place="margin">Columba eſt animal non felle amarum; non morſi<g ref="char:EOLhyphen"/>bus ſoevum, non ungui<g ref="char:EOLhyphen"/>um lacera<g ref="char:EOLhyphen"/>tione vio<g ref="char:EOLhyphen"/>lentum. Cyp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. do unitate Eclleſiae.</note> griping claws, nor wounding hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, nor gall of bitterneſſe.</p>
+            <p>And therefore if we judge by this rule, we may conſidently affirm, that they cannot have any good aſſurance of being the <hi>friends of God,</hi> that are <hi>Enemier to Peace.</hi> And when to loue of Peace, what hopes of a Bleſſing<g ref="char:punc">▪</g>
+            </p>
+            <p>It is obſerved by ſome, that there is no ſuch approbation up on the ſecond dayes work, as there is upon the neſt of the daye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the
+<pb n="25" facs="tcp:112980:15"/>firſt day God made the light, <hi>and he ſaw it was good,</hi> Gen. 1.4. On the third day, he made the Sea, and the dry land, and <hi>he ſaw it was good</hi> v. 10. and ſo for the reſt of the dayes; onely the ſecond dayes work, hath no ſuch particu<g ref="char:EOLhyphen"/>lar approbation. And hereupon a queſtion is raiſed; why that day alone, ſhould want the particular approbation, which is beſtowed up<g ref="char:EOLhyphen"/>on all the reſt? And <hi>Pet. Lomb.</hi> gives this rea<g ref="char:EOLhyphen"/>ſon for it;
+<note n="*" place="margin">
+                  <hi>Lomb.</hi> p. 2. <hi>Diſt.</hi> 14. <hi>D.</hi>
+               </note> 
+               <hi>quia binarius principium alteritatis eſt, &amp; ſignum diviſionis,</hi> the number of two is an odious number, and the firſt that makes divi<g ref="char:EOLhyphen"/>ſion from one. I will not ſay, that this was the reaſon; and he himſelf puts a <hi>Fortaſſis</hi> upon it; but this I am ſure of, where there are unneceſſary diviſions, and needleſſe contenti<g ref="char:EOLhyphen"/>ons, there wants both Gods <hi>approbation and his bleſſing.</hi> And therefore if you be indeed, what you would be accounted, the Children of God, ſoe that ye <hi>have Peace onewith another.</hi>
+            </p>
+            <p>And having handled this <hi>ſecond precept</hi> of the Text, with reference to the <hi>Clergy</hi> and <hi>Laity</hi> a part, give me leave now in a word, to joyn you both together. You that are of the <hi>Clergy have Peace</hi> with the <hi>Laity;</hi> you that are of the <hi>Laity have Peace</hi> with the <hi>Clergy,</hi> let us all <hi>have Peace one with another.</hi>
+            </p>
+            <p>We that are of the <hi>Clergy,</hi> ſhould make it our cure, that we may have Peace with the People, and live together, as Members of one body, and as heirs together; of the ſame hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            <pb n="26" facs="tcp:112980:16"/>
+            <p> The peaceable carriage of a Miniſter towards the People, may be a good furtherance to the ſalvation of their ſoules. He deſerves hatred, that would but pleaſe, and yet he is never like to profit, that pleaſeth not; not that we ſhould purchaſe their good will, with the neglect of our duty,
+<note n="*" place="margin">Act 4.19.</note> for we know that it <hi>is better to pleaſe God then men;</hi> but that we ſhould ſo farre as lawfully we may, <hi>become all things to all, that ſo by all means, we may ſave ſome,</hi> according to that of Saint <hi>Paul,</hi> 1 <hi>Cor.</hi> 9.22.</p>
+            <p>And for the <hi>People,</hi> their care alſo ſhould be to live in Peace with their <hi>Paſtors,</hi> and not be as thoſe that
+<note n="*" place="margin">Hoſe 4.4.</note> 
+               <hi>ſtrive with the Prieſt.</hi> It is but the Devills pollicy to ſtirre up the People, to pick quarrells with their Miniſters, that ſo their Miniſtery may do the leſſe good upon their own ſoules.</p>
+            <p>So that it concerns us all, to <hi>have Peace one with another.</hi> And for the better fur<g ref="char:EOLhyphen"/>therance of this mutuall Peace, give me leave to propoſe an help or two, for either party.</p>
+            <p>Firſt, for the Clergy, the way to preſerve our credit with the People is, firſt <hi>diligently to preach the word of God in truth, without reſpect to any mans perſon,</hi> according to the practiſe of that great Shepheard, and Biſhop of ſoules <hi>the Lord Ieſus, Matth.</hi> 22.16. If our mouths be <hi>ſhut,</hi> tis no wonder if theirs be <hi>open: Timothy</hi> was a Biſhop, and a man of a weak ſtomach, and ma<g ref="char:EOLhyphen"/>ny infirmities; and yet Saint <hi>Paul</hi> doth conjure him in the higheſt way that can be, <hi>to preach the
+<pb n="27" facs="tcp:112980:16"/>word of God with diligence,</hi> 2 <hi>Tim.</hi> 4.1, 2.</p>
+            <p>The Prophet ſaith, That the <hi>Prieſts lips ſhould keep knowledge, Mal.</hi> 2.7. and there is ſome<g ref="char:EOLhyphen"/>what in that phraſe more then ordinary. The ſeat of knowledge is the head, and unleſſe there be knowledge in the head, there will be nothing but ignorance in the lips: and yet be the head never ſo full of knowledge, it muſt appear in the lips too, or elſe it profits not. <hi>David hid the word of God in his heart, that ſo he might not ſin againſt God,</hi> Pſal. 119.11. This was for his own practiſe: And yet in another place he ſaith, I have not hid thy righteouſneſſe within my heart, <hi>I have declared thy faithfulneſſe, and thy ſalvation; I have not concealed thy loving kindneſſe, and thy truth, from the great Congre<g ref="char:EOLhyphen"/>gation, Pſal.</hi> 40.10. And this was for the peoples good.</p>
+            <p>Secondly, <hi>to preſſe moſt, ſubſtantiall truths.</hi> Truths of inferiour conſequence, when over<g ref="char:EOLhyphen"/>eagerly, or unſeaſonably preſt, tend rather unto ſtriſe, then to edification.</p>
+            <p>Thirdly, <hi>Let our lives be holy, and blameleſſe, and ſutable to our Doctrine.</hi> Saint <hi>Paul</hi> doth require both of <hi>Timothy</hi> and <hi>Titus, that no man ſhould deſpiſe them,</hi> 1 <hi>Tim.</hi> 4.12. and <hi>Tit.</hi> 2.15. A man might wonder at the firſt view, what the Apoſtle ſhould mean by this; eſpecially conſidering what followes; for having ſaid to <hi>Titus, Let <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>man deſpiſe thee,</hi> preſently he adds; <hi>Put them in minde to be ſubject to principalities, and powers, to obey Magiſtrates, to be ready so
+<pb n="28" facs="tcp:112980:17"/>every good work, to ſpeak evill of no man, &amp;c.</hi> c. 3. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1, 2. Should not Saint <hi>Paul</hi> rather have en<g ref="char:EOLhyphen"/>joyned <hi>the people</hi> not <hi>to deſpiſe</hi> their Paſtours? or if <hi>that</hi> muſt be the Paſtors care, ſhould he not have enjoyned the preaching of ſome more pleaſing Doctrine, then <hi>ſubjection and abedience?</hi> a man would think, that this were the ready way to be deſpiſed, but Saint <hi>Pauls</hi> thoughts (you ſee) are otherwiſe, of us it is required, <hi>to ſee that no man deſpiſe us,</hi> and the way to pre<g ref="char:EOLhyphen"/>ſerve our perſons from contempt, is not by any unworthy complying with the peoples hu<g ref="char:EOLhyphen"/>mours, but <hi>by being patterns to the flock,</hi> accord<g ref="char:EOLhyphen"/>ing to that 1 <hi>Tim:</hi> 4.12. By which it plainly appears, that holineſſe of life, is the way to win reſpect to our perſons, and authority to out Doctrine; yea, though it be ſuch Doctrine, as doth moſt croſſe the corruptions of thoſe that hear us; and that the ready way for Mi<g ref="char:EOLhyphen"/>niſters to be <hi>Maſters</hi> of the peoples <hi>love and af<g ref="char:EOLhyphen"/>fections,</hi> is for them to be holy <hi>rules and exam<g ref="char:EOLhyphen"/>ples</hi> to their <hi>lives and actions.</hi> It is we our ſelves, that either make our ſelves <hi>vile</hi> in the peoples e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es by our <hi>vicious</hi> courſes, or elſe keep our ſelves from being <hi>deſpiſed</hi> by being <hi>vertuous.</hi>
+            </p>
+            <p>For the people, if they deſire to have Peace with their Miniſters, there are two things to be regarded; the firſt is that of Saint <hi>Iames</hi> 1.19. <hi>be ſwift to hear ſlow to ſpeak flow to wrath.</hi> Haſtneſſe in the people to cenſure the Preachers Doctrine ſavours not of the Spirit of meekneſſe, and is an Enemy to Peace. The
+<pb n="29" facs="tcp:112980:17"/>ſecond is that of Saint <hi>Paul,</hi> 1 <hi>Theſ.</hi> 5.12. <hi>Regard them that labour among you, and are over you in the Lord;</hi> them that labour <hi>among you.</hi> To magnifie ſtrangers, that come to us now and then, and to ſlight thoſe that <hi>labour among us, and are over us in the Lord,</hi> begets thoughts of heart, that tend to diviſion. And there<g ref="char:EOLhyphen"/>fore let both theſe rules be duly regarded, for this is the way to cut off occaſions of of<g ref="char:EOLhyphen"/>fence, and to love as brethren, and to have <hi>peace one with another.</hi>
+            </p>
+            <p>Before I conclude this point, let me adde, by way of direction, ſome generall helps, that concern us all to regard, as we do deſire to live in Peace.</p>
+            <p>Firſt, <hi>be not many Maſters;</hi> moroſity is no friend to Peace. when men will take upon them ſo much Maſterſhip, as to confine others to ſee with their eyes, and to hear with their eares, and to condemn every man for wrong that is not right of their ſtamp both in opinion and practiſe, tis no wonder if there be diviſi<g ref="char:EOLhyphen"/>ons amongſt us.</p>
+            <p>It is obſerved by men judiciouſly wiſe and deliberately moderate,
+<note place="margin">See Dr. <hi>Prideaux</hi> his Ser. on Acts, 23.5. p. 15.</note> that
+<q>the <hi>virulency</hi> of the <hi>Papiſts,</hi> who account all Hereticks, that do in any ſort proteſt againſt their Tyranny, and ſuperſtitions: the <hi>peoviſhneſſe</hi> of the <hi>Browniſts</hi> and men of like temper, who cry down all for prophane, that fort not with their ſingularity; and the <hi>raſhneſſe</hi> of ſome <hi>Proteſtants,</hi> who cenſure all thoſe that in any
+<pb n="30" facs="tcp:112980:18" rendition="simple:additions"/>point diſſent from their tenets, and Maſters have been the greateſt hinderers of the wiſhed for union of all true Chriſtians, And therefore as you deſire Peace, <hi>be not many Maſters.</hi>
+               </q>
+            </p>
+            <p>Secondly,
+<note place="margin">1 Theſ. 4.11.</note> 
+               <hi>Study to be quiet, and to do your own buſineſſe, ſtudy to be quit;</hi> there is an Emphaſis in the word <hi>philotimeiſthai eſuchazein.</hi> Let it be your ambition to be quiet;
+<note place="margin">
+                  <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſede itio</hi> is eaſily made <hi>ſeditio.</hi>
+               </note> and how ſhould this be done, but by doing of our own buſi<g ref="char:EOLhyphen"/>neſſe? breach of ranks diſorders an Army; and to be medling in things beyond our bounds, diſturbs Peace. This was that that bred ſuch a diviſion among the People, and ſuch confuſion upon <hi>Korah,</hi> and the reſt of that rebellious company; <hi>they took too much upon them,</hi> Num. 16.7.</p>
+            <p>Laſtly,
+<note place="margin">
+                  <hi>Hooker</hi> Ser. of pride <hi>p.</hi> 531. of Eccleſ. <hi>pol.</hi>
+               </note> 
+               <hi>labour for humility;</hi> I reverence a ſay<g ref="char:EOLhyphen"/>ing of that judicious <hi>Hooker,</hi> whoſe words are theſe.
+<q>What harm ſoever in private, fami<g ref="char:EOLhyphen"/>lies, there groweth by diſobedience of Chil<g ref="char:EOLhyphen"/>dren, ſtubborneſſe in ſervants, untractable<g ref="char:EOLhyphen"/>neſſe in them, who although they otherwiſe may rule, yet ſhould in conſideration of the imparity of their Sex, be alſo Subject; what<g ref="char:EOLhyphen"/>ſoever by ſtrife amongſt men combined in greater ſocieties, by Tyranny of potentates, ambition of Nobles, Rebellion of Subjects in Civill States; by hereſies, ſchiſmes, and diviſions in the Church; naming <hi>pride</hi> we name the Mother that brought them forth, and the onely Nurſe that feedeth them; give
+<pb n="31" facs="tcp:112980:18"/>me the hearts of all men humbled, and what is there, that can overthrow, or diſturb the Peace of the world, wherein many things are the cauſe of much evill, but Pride of all.</q> Thus he, which paſſage I reverence, and yet not ſo much becauſe it is his, as becauſe it is the truth, for <hi>onely by pride cometh contention,</hi> ſo <hi>Salomon, Proverbs,</hi> 13.10. And therefore if you would live in <hi>Peace,</hi> learn to be <hi>humble.</hi>
+            </p>
+            <p>Thus have I ſhewed you the <hi>way of Peace,</hi> let our care be to walke in it, and let <hi>us
+<note n="*" place="margin">2 Cor. 13. 11.</note> live in Peace, and ſo ſhall the God of love and Peace be with us;</hi> and thus much of each precept a part: A word of their union, and then I have done.</p>
+            <p>The firſt of theſe precepts concerns the <hi>in<g ref="char:EOLhyphen"/>wardman,</hi> the ſecond concerns our <hi>outward car<g ref="char:EOLhyphen"/>riage:</hi> the firſt lookes unto <hi>God,</hi> the ſecond to our <hi>neighbour,</hi> and both theſe muſt go toge<g ref="char:EOLhyphen"/>ther; neither an <hi>unholy righteouſneſſe,</hi> nor an <hi>unrighteous holineſſe</hi> will ſerve the turn; the one is but meer <hi>morality,</hi> the other no better then <hi>Hypocriſy:</hi> And therefore let us
+<note n="*" place="margin">1 Cor. 8.21.</note> 
+               <hi>provide things honeſt, not onely in the ſight of God, but alſo in the ſight of men;</hi> not onely in the ſight of men, but alſo in the ſight of God, <hi>exerciſing
+<note n="*" place="margin">Acts, 24.16.</note> our ſelves to keep a conſcience void of offence both</hi> toward God and men.</p>
+            <p>Again, the firſt of theſe concerns <hi>Salt,</hi> and the ſecond <hi>Peace;</hi> and neither muſt our <hi>Salt</hi> be <hi>unpeaceable,</hi> nor our <hi>Peace unſavoury: Peace and Salt</hi> muſt go both together. For neither is compleat without the other; and he that doth
+<pb n="32" facs="tcp:112980:19"/>not regard both, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth of a truth, regard neither.</p>
+            <p>The Apoſſle requires a ſweet conjunction, both of <hi>Peace and Holineſſe,</hi> Heb. 12.14. and what's that in effect but <hi>Salt and Peace?</hi> &amp; they do as well together, as ill aſunder, for <hi>holineſſe alone</hi> is never like to ſee the <hi>God of Peace,</hi> and <hi>Peace alone</hi> is never like to ſee the <hi>God of holineſſe,</hi> for <hi>without it no man ſhall ſee the Lord.</hi>
+            </p>
+            <p>
+               <hi>The wiſdom that is from above, is firſt peace, and then peaceable, Iac.</hi> 3.17. That <hi>Peace</hi> is to be ſlighted, that is void <hi>of Purity;</hi> and that <hi>Purity</hi> to be ſuſpected, that is not <hi>peaceable: Purity</hi> without <hi>Peace</hi> is but <hi>factious ſingularity,</hi> and <hi>Peace</hi> without <hi>Purity,</hi> is but <hi>prophane conſpiracy;</hi> and if <hi>Peace and purity</hi> go not both together, it is to be doubted, that neither of them belongs to <hi>the wiſdom from above.</hi>
+            </p>
+            <p>If therefore we expect to eat of the fruits of our labours with comfort, let us not do the work of God <hi>by halves, what God hath joyned together, let no man put aſunder,</hi> but let us have <hi>Salt in our ſelves, and Peace one with another.</hi>
+            </p>
+            <p>
+               <hi>Now the God of
+<note n="*" place="margin">2 Theſ. 3.16.</note> Peace himſelf, give us Peace alwayes by all means; and
+<note n="*" place="margin">1 Theſ. 5.23.</note> ſanctifie us alſo througout, that our whole Spirit, Soul and Body may be kept blameleſſe unto the coming of our Lord Ieſus;</hi> To whom be glory both now and for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112980:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
